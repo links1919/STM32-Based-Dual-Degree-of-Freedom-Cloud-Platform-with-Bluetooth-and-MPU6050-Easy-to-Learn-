@@ -1,0 +1,36 @@
+.\objects\sundries.o: Hardware\Sundries.c
+.\objects\sundries.o: .\Start\stm32f10x.h
+.\objects\sundries.o: .\Start\core_cm3.h
+.\objects\sundries.o: D:\STM32\Keil5 C51\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\sundries.o: .\Start\system_stm32f10x.h
+.\objects\sundries.o: .\User\stm32f10x_conf.h
+.\objects\sundries.o: .\Library\stm32f10x_adc.h
+.\objects\sundries.o: .\Start\stm32f10x.h
+.\objects\sundries.o: .\Library\stm32f10x_bkp.h
+.\objects\sundries.o: .\Library\stm32f10x_can.h
+.\objects\sundries.o: .\Library\stm32f10x_cec.h
+.\objects\sundries.o: .\Library\stm32f10x_crc.h
+.\objects\sundries.o: .\Library\stm32f10x_dac.h
+.\objects\sundries.o: .\Library\stm32f10x_dbgmcu.h
+.\objects\sundries.o: .\Library\stm32f10x_dma.h
+.\objects\sundries.o: .\Library\stm32f10x_exti.h
+.\objects\sundries.o: .\Library\stm32f10x_flash.h
+.\objects\sundries.o: .\Library\stm32f10x_fsmc.h
+.\objects\sundries.o: .\Library\stm32f10x_gpio.h
+.\objects\sundries.o: .\Library\stm32f10x_i2c.h
+.\objects\sundries.o: .\Library\stm32f10x_iwdg.h
+.\objects\sundries.o: .\Library\stm32f10x_pwr.h
+.\objects\sundries.o: .\Library\stm32f10x_rcc.h
+.\objects\sundries.o: .\Library\stm32f10x_rtc.h
+.\objects\sundries.o: .\Library\stm32f10x_sdio.h
+.\objects\sundries.o: .\Library\stm32f10x_spi.h
+.\objects\sundries.o: .\Library\stm32f10x_tim.h
+.\objects\sundries.o: .\Library\stm32f10x_usart.h
+.\objects\sundries.o: .\Library\stm32f10x_wwdg.h
+.\objects\sundries.o: .\Library\misc.h
+.\objects\sundries.o: Hardware\Sundries.h
+.\objects\sundries.o: D:\STM32\Keil5 C51\ARM\ARMCC\Bin\..\include\math.h
+.\objects\sundries.o: Hardware\PWM.h
+.\objects\sundries.o: Hardware\Servo.h
+.\objects\sundries.o: Hardware\Serial.h
+.\objects\sundries.o: D:\STM32\Keil5 C51\ARM\ARMCC\Bin\..\include\stdio.h
